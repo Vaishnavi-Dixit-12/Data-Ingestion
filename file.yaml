@@ -1,0 +1,19 @@
+file_type: csv
+dataset_name: testfile
+file_name: test_data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - username
+    - anime_id
+    - my_watched_episodes
+    - my_start_date
+    - my_finish_date
+    - my_score
+    - my_rewatching
+    - my_rewatching_ep
+    - my_last_updated
+    - my_tags
+
